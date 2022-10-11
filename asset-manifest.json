@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/projetobc/static/css/main.2dc03a49.css",
+    "main.js": "/projetobc/static/js/main.ff7ab7f6.js",
+    "static/js/787.b2f1653e.chunk.js": "/projetobc/static/js/787.b2f1653e.chunk.js",
+    "static/media/comercio.png": "/projetobc/static/media/comercio.98ac8f6679172b2652e8.png",
+    "static/media/holding.png": "/projetobc/static/media/holding.15e7126460f92e0cdf4d.png",
+    "static/media/logo-vix.png": "/projetobc/static/media/logo-vix.3b948375d57479888399.png",
+    "index.html": "/projetobc/index.html",
+    "main.2dc03a49.css.map": "/projetobc/static/css/main.2dc03a49.css.map",
+    "main.ff7ab7f6.js.map": "/projetobc/static/js/main.ff7ab7f6.js.map",
+    "787.b2f1653e.chunk.js.map": "/projetobc/static/js/787.b2f1653e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dc03a49.css",
+    "static/js/main.ff7ab7f6.js"
+  ]
+}
